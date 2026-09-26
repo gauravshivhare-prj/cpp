@@ -1,0 +1,71 @@
+# Compiled Object Files
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Executables (C++ binaries)
+*.exe
+*.app
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.bak
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE files
+.idea/
+*.swp
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+bin/
+dist/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Dependency files
+*.depend
+*.dependencies
+
+# Text editor backups
+*.txt~
+*.bak
+
+# Node/npm (if used)
+node_modules/
+package-lock.json
+
+# Python (if used)
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
